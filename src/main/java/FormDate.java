@@ -1,5 +1,5 @@
 public class FormDate {
-    public String day;
-    public String month;
-    public String year;
+    public byte day;
+    public byte month;
+    public int year;
 }
